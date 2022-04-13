@@ -8,18 +8,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ This program runs a series of tests on given strings. Some will replace certain characters with other things and some will sum certain things in the string. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I wasn't able to convert the return statements to strings in some of the tests so I commented out those lines in the main code to allow my code to run. Additionally, some of the tests didn't return the proper values
 
 ## REFERENCES:
- < List any outside resources used >
+ (https://stackoverflow.com/questions/12492137/python-sum-of-ascii-values-of-all-characters-in-a-string) 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ N/A
